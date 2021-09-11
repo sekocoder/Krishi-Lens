@@ -39,9 +39,5 @@ To make your local copy of the repository follow the steps:
 - Open the Command Prompt
 - Type this command:
 
-##### For Android App Develpment:
-```bash
-$ git clone -b flutter https://github.com/<your-github-username>/Krishi-Lens
-```
 
 ## Drop an ⭐ on the Github Repository if you like it.<br><br>
